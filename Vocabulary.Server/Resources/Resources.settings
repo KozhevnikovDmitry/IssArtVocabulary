@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Vocabulary.Server.Resources" GeneratedClassName="Resources">
+  <Profiles />
+  <Settings>
+    <Setting Name="NoSuchCommand" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;нет такой команды&gt;</Value>
+    </Setting>
+    <Setting Name="NoSuchWord" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;слово отсутвует в словаре&gt;</Value>
+    </Setting>
+    <Setting Name="MeansAdded" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;({0}):значения слова успешно добавлены&gt;</Value>
+    </Setting>
+    <Setting Name="MeansAreAlreadyAdded" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;значения уже добавлены&gt;</Value>
+    </Setting>
+    <Setting Name="WordIsNotSet" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;слово не задано&gt;</Value>
+    </Setting>
+    <Setting Name="MeansAreDeleted" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;значения слова успешно удалены&gt;</Value>
+    </Setting>
+    <Setting Name="NoSuchWordOrMean" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;слово/значение отсутвует в словаре&gt;</Value>
+    </Setting>
+    <Setting Name="CommandIsNotSet" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;команда не задана&gt;</Value>
+    </Setting>
+    <Setting Name="ServerIsStarted" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;сервер запущен, нажмите любую клавишу...&gt;</Value>
+    </Setting>
+    <Setting Name="UnexpectedError" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;ошибка: {0}&gt;</Value>
+    </Setting>
+    <Setting Name="StopServerError" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;ошибка остановки сервера&gt;</Value>
+    </Setting>
+    <Setting Name="HandleRequestError" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;ошибка обработки запроса&gt;</Value>
+    </Setting>
+    <Setting Name="StartServerError" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;ошибка старта сервера&gt;</Value>
+    </Setting>
+    <Setting Name="RequestError" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;ошибка получения запроса&gt;</Value>
+    </Setting>
+    <Setting Name="MeansAreNotSet" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;значения не заданы&gt;</Value>
+    </Setting>
+    <Setting Name="CommandNameDuplicated" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;дублируется имя команды&gt;</Value>
+    </Setting>
+    <Setting Name="UrlIsInvalid" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;url имеет неверный формат&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
